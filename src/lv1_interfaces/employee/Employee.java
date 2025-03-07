@@ -1,6 +1,6 @@
 package lv1_interfaces.employee;
 
-public class Employee {
+public class Employee implements Comparable<Employee>{
 
     private int empNumber;
     private String name;
@@ -54,5 +54,23 @@ public class Employee {
                 ", salary=" + salary +
                 ", department='" + department + '\'' +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Employee o) {
+//        if (this.empNumber > o.empNumber){
+//            return 1;
+//        }
+//        if (this.empNumber < o.empNumber){
+//            return -1;
+//        }
+//        else{
+//            return 0;
+//        }
+        // absteigend, descending nach empNumber
+        return Integer.compare(o.empNumber, this.empNumber);
+
+        // aufsteigend
+        //return Integer.compare(this.empNumber, o.empNumber);
     }
 }
