@@ -1,6 +1,6 @@
 package lv1_interfaces;
 
-public class Car {
+public class Car implements Sortable<Car> {
 
     private String carType;
     private int productionYear;
@@ -10,6 +10,19 @@ public class Car {
         this.carType = carType;
         this.productionYear = productionYear;
         this.drivenKilometer = drivenKilometer;
+    }
+
+    @Override
+    public int sort(Car s) {
+        if (this.getProductionYear() == s.getProductionYear()){
+            return 0;
+        }
+        if (this.getProductionYear() < s.getProductionYear()){
+            return -1;
+        }
+        else {
+            return 1;
+        }
     }
 
     public String getCarType() {
