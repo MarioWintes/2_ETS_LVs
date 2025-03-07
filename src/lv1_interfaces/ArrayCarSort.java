@@ -1,6 +1,5 @@
 package lv1_interfaces;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ArrayCarSort {
