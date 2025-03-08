@@ -1,4 +1,4 @@
-package lv2_comparator.ubungsblatt2;
+package lv2_comparator_exception.ubungsblatt2.bsp1;
 
 public class Employee implements Comparable<Employee>{
 

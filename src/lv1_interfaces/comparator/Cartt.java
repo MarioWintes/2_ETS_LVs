@@ -1,16 +1,15 @@
 package lv1_interfaces.comparator;
 
-import java.util.Comparator;
 import java.util.Objects;
 
-public class Cart implements Comparable<Cart> {
+public class Cartt implements Comparable<Cartt> {
 
     private String username;
     private int numArticles;
     private int totalItems;
     private double totalAmount;
 
-    public Cart(String username, int numArticles, int totalItems, double totalAmount) {
+    public Cartt(String username, int numArticles, int totalItems, double totalAmount) {
 
         this.username = username;
         this.numArticles = numArticles;
@@ -63,7 +62,7 @@ public class Cart implements Comparable<Cart> {
     @Override
     public boolean equals(Object o) {
         if (o == null || getClass() != o.getClass()) return false;
-        Cart cart = (Cart) o;
+        Cartt cart = (Cartt) o;
         return numArticles == cart.numArticles && totalItems == cart.totalItems && Double.compare(totalAmount, cart.totalAmount) == 0 && Objects.equals(username, cart.username);
     }
 
@@ -73,7 +72,7 @@ public class Cart implements Comparable<Cart> {
     }
 
     @Override
-    public int compareTo(Cart o) {
+    public int compareTo(Cartt o) {
         return this.username.compareTo(o.username);
     }
 }

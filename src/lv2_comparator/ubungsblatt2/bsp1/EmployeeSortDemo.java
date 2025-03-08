@@ -1,4 +1,4 @@
-package lv2_comparator.ubungsblatt2;
+package lv2_comparator_exception.ubungsblatt2.bsp1;
 
 import java.util.Arrays;
 
@@ -16,15 +16,23 @@ public class EmployeeSortDemo {
         };
 
         System.out.println(Arrays.toString(employees));
+
+        System.out.println("Sort Emp by Name asc");
         Arrays.sort(employees, new NameAscComporator());
         System.out.println(Arrays.toString(employees));
+        System.out.println();
 
+        System.out.println("Sort Emp by Salary desc");
         Arrays.sort(employees, new SalaryDescComparator());
         System.out.println(Arrays.toString(employees));
+        System.out.println();
 
+        System.out.println("Sort Emp by Department asc and Name desc");
         Arrays.sort(employees, new DepartmentAscNameDescComparator());
         System.out.println(Arrays.toString(employees));
+        System.out.println();
 
+        System.out.println("Sort Emp by Salary asc and Name asc");
         Arrays.sort(employees, new SalaryAscNameAscComparator());
         System.out.println(Arrays.toString(employees));
     }
