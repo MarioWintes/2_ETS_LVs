@@ -18,10 +18,8 @@ public class IntStackDemo {
             stack.push(2);
             stack.push(2);
             stack.push(2);
-        } catch (StackFullException e) {
+        } catch (StackFullException | StackEmptyException e) {
             e.printStackTrace();
-        } catch (StackEmptyException e) {
-            throw new RuntimeException(e);
         }
     }
 
