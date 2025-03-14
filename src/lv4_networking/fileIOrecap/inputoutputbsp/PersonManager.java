@@ -3,6 +3,8 @@ package lv4_networking.fileIOrecap.inputoutputbsp;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
 public class PersonManager {
 
@@ -36,6 +38,16 @@ public class PersonManager {
         } catch (IOException e) {
             throw new PersonLoadException("IOException: " + path, e);
         }
+    }
+
+    // für Demo Zwecke - wenn ich in der Demo bei .sort(null) übergebe, dann wird es default
+    // sortiert, wenn ich einen comparator übergebe, wird es nach dem übergebenen Comparator sortiert
+    public ArrayList<Person> sort(Comparator<Person> comp){
+        if (comp == null){
+            Collections.sort(personArrayList);
+        } else
+            Collections.sort(personArrayList, comp);
+        return personArrayList;
     }
 
     public ArrayList<Person> getPersonArrayList() {
