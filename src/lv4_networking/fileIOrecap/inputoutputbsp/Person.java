@@ -1,6 +1,8 @@
 package lv4_networking.fileIOrecap.inputoutputbsp;
 
-public class Person {
+import java.util.Comparator;
+
+public class Person implements Comparable<Person> {
 
     private String firstname;
     private String lastname;
@@ -43,5 +45,15 @@ public class Person {
 
     public void setBrithLocation(String brithLocation) {
         this.brithLocation = brithLocation;
+    }
+
+
+    @Override
+    public int compareTo(Person o) {
+        int comp = o.lastname.compareTo(this.lastname);
+        if (comp == 0){
+            return this.firstname.compareTo(o.firstname);
+        }
+        return comp;
     }
 }

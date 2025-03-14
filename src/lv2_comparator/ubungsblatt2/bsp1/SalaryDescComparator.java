@@ -1,4 +1,4 @@
-package lv2_comparator_exception.ubungsblatt2.bsp1;
+package lv2_comparator.ubungsblatt2.bsp1;
 
 import java.util.Comparator;
 
