@@ -18,11 +18,9 @@ public class UrlPractice {
                         new FileWriter("C:\\Users\\mario\\Studium\\2_ETS_LVs\\src\\lv4_networking\\urldemo\\google.html")
                 )
             ){
-
-
                 String line;
                 while ((line = br.readLine()) != null){
-                   // System.out.println(line);
+                   System.out.println(line);
                     bw.write(line);
                     bw.newLine();
                 }

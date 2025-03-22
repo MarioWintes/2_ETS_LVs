@@ -1,0 +1,2050 @@
+HTTP/1.1 200 OK
+Date: Sat, 22 Mar 2025 11:26:39 GMT
+Server: Apache
+Vary: Origin
+X-Cache: HIT from localhost
+ETag: "p05aFHU/On/zHKuqy0CVDA=="
+Content-Type: text/html;charset=utf-8
+Content-Length: 89624
+Cache-Control: max-age=0
+Expires: Sat, 22 Mar 2025 11:26:39 GMT
+Strict-Transport-Security: max-age=2592000
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors https://*.orf.at https://orf.at
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: autoplay=(self), encrypted-media=(self), fullscreen=(self), picture-in-picture=(self), web-share=(self), accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Connection: close
+
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <title>news.ORF.at</title>
+
+   
+<link rel="preload" href="//orf.at/fonts/ORFUniversal/Variable/Web/WOFF2/ORFUniversalVF_W_WghtWdthOpsz.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//orf.at/fonts/ORFUniversal/Variable/Web/WOFF2/ORFUniversalVF_Italic_W_WghtWdthOpsz.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//orf.at/fonts/ORFUniversalSC/Variable/Web/WOFF2/ORFUniversalSCVF_W_WghtOpsz.woff2" as="font" type="font/woff2" crossorigin>
+
+<link rel='preload' href='https://data-d6e13c60e8.orf.at/iomm/latest/manager/base/es6/bundle.js' as='script' id='IOMmBundle' crossorigin>
+<link rel='preload' href='https://data-d6e13c60e8.orf.at/iomm/latest/bootstrap/loader.js' as='script' crossorigin>
+
+<link data-compressor="2346d576" rel="stylesheet" type="text/css" media="screen" title="CSS Stylesheet" href="https://orf.at/mojo.compressed/1_4_1/news//news/common-main.css?v=2025022323-797" />
+
+
+
+
+<link rel="shortcut icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-64x64.png" sizes="64x64">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-128x128.png" sizes="128x128">
+
+<link rel="apple-touch-icon" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-iphone.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-ipad.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-iphone-retina.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-ipad-retina.png"/>
+
+<meta name="application-name" content="news.ORF.at"/>
+<meta name="msapplication-TileColor" content="#5286c1"/>
+<meta name="msapplication-square70x70logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.128x128.png"/>
+<meta name="msapplication-square150x150logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.270x270.png"/>
+<meta name="msapplication-wide310x150logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.558x270.png" />
+<meta name="msapplication-square310x310logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.558x558.png" />
+
+<link rel="alternate" type="application/rss+xml" title="Newsfeed - news.ORF.at"  href="https://rss.orf.at/news.xml" />
+
+<meta name="robots" content="NOODP, NOYDIR" />
+<meta name="format-detection" content="telephone=no" />
+<meta property="fb:admins" content="100000441983612" />
+<meta property="og:site_name" content="news.ORF.at" />
+
+<script class="nav-array">
+[]
+</script>
+
+
+   
+
+
+<link data-compressor="8ac5873f" rel="stylesheet" type="text/css" media="screen" title="CSS Stylesheet" href="https://orf.at/mojo.compressed/1_4_1/news//news/main.css?v=2025022323-797" />
+
+
+
+<link data-compressor="477e9bc6" rel="stylesheet" type="text/css" media="print" title="CSS Stylesheet" href="https://orf.at/mojo.compressed/1_4_1/news//news/print.css?v=2025022323-797" />
+
+
+
+
+
+   <meta property="fb:pages" content="44902596242,182146851877,21376831257,128777999463,553577838028208,288557274619001,942501875773264,515825358469599,289927117783068,400364115907,313258915520789,182837171730931,60906181115,200860629933510,520950004584056,334716002301,285552701609091,121919051194808,46459228315,121729504518822,123113897719876,362938404507,816516858421696,260337754071787,1362329713795725,1475362469455962,175201152647641,92325259890,185820979606,1547131872186889,114647135227810,1636539530008234,1756299601255193,979161472222861" />
+
+
+
+   <link rel="canonical" href="https://orf.at/">
+<meta property="og:url" content="https://orf.at/">
+<meta property="og:title" content="news.ORF.at">
+<meta name="twitter:title" content="news.ORF.at">
+<meta name="twitter:card" content="summary">
+
+<meta name="description" content="news.ORF.at: Die aktuellsten Nachrichten auf einen Blick - aus &Ouml;sterreich und der ganzen Welt. In Text, Bild und Video." />
+<meta property="og:description" content="news.ORF.at: Die aktuellsten Nachrichten auf einen Blick - aus &Ouml;sterreich und der ganzen Welt. In Text, Bild und Video.">
+<meta name="twitter:description" content="news.ORF.at: Die aktuellsten Nachrichten auf einen Blick - aus &Ouml;sterreich und der ganzen Welt. In Text, Bild und Video.">
+
+<meta property="og:image" content="https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="627" />
+<meta property="og:image:type" content="image/png" />
+
+
+</head>
+<body class="ss frontpage news orfon-margin-responsive" id="top">
+
+   <nav id="skiplinks" aria-label="Sprungmarken">
+   <a accesskey="1" href="#content">Zum Inhalt [AK+1]</a><span class="sr-only"> / </span>
+   <a accesskey="3" href="#ss-networkNavigation">Zur ORF.at-Navigation [AK+3]</a>
+</nav>
+
+
+
+
+   <div class="wrapper">
+      <header class="header">
+   <nav aria-label="ORF.at Navigation">
+   <ul id="ss-networkNavigation" class="network-navigation" tabindex="-1">
+      <li><a href="https://tv.orf.at/">Fernsehen</a></li>
+      <li><a href="https://on.orf.at/">ORF ON</a></li>
+      <li><a href="https://kids.orf.at/">KIDS</a></li>
+      <li><a href="https://sound.orf.at/">Sound</a></li>
+      <li><a href="https://topos.orf.at/">Topos</a></li>
+      <li><a href="https://debatte.orf.at/">Debatte</a></li>
+      <li><a href="https://oesterreich.orf.at/" class="networkOesterreich">&Ouml;sterreich</a></li>
+      <li><a href="https://wetter.orf.at/">Wetter</a></li>
+      <li><a href="https://sport.orf.at/">Sport</a></li>
+      <li><a href="https://orf.at/" lang="en" class="current">News</a></li>
+      <li id="sitemap-menu" class="network-navigation-sitemap">
+         <a href="https://orf.at/uebersicht" id="sitemap-button" role="button" aria-controls="sitemap" aria-haspopup="true">ORF.at im &Uuml;berblick</a>
+         <div id="sitemap" class="network-navigation-sitemap-content" aria-labelledby="sitemap-button"></div>
+      </li>
+   </ul>
+</nav>
+
+
+   <div class="top-area-wrapper">
+      <div class="logo-area">
+         <a class="site-logo" href="https://orf.at/" aria-label="zur ORF.at-Startseite">
+            news
+         </a>
+         <a href="https://orf.at/" aria-hidden="true" tabindex="0">
+            <img src="https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news-universal.svg" width="103" height="39" alt="ORF.at" title="" class="orfon-target-logo">
+         </a>
+      </div>
+      <div class="widget-area">
+         
+<div id="weather-widget" class="weather">
+   <button class="dropdown-toggle" data-toggle="oon-dropdown">
+      <span class="sr-only">Bundesland-Wetter ausw&auml;hlen</span>
+   </button>
+   <div class="dropdown-menu">
+      <div tabindex="0" role="button" data-region="vorarlberg">Vorarlberg</div>
+      <div tabindex="0" role="button" data-region="tirol">Tirol</div>
+      <div tabindex="0" role="button" data-region="salzburg">Salzburg</div>
+      <div tabindex="0" role="button" data-region="kaernten">K&auml;rnten</div>
+      <div tabindex="0" role="button" data-region="steiermark">Steiermark</div>
+      <div tabindex="0" role="button" data-region="oberoesterreich">Ober&ouml;sterreich</div>
+      <div tabindex="0" role="button" data-region="niederoesterreich">Nieder&ouml;sterreich</div>
+      <div tabindex="0" role="button" data-region="wien">Wien</div>
+      <div tabindex="0" role="button" data-region="burgenland">Burgenland</div>
+   </div>
+   <div class="weather-content"></div>
+
+   <script id="weather-template" type="text/template">
+      <a class="weather-link" href="{{link}}">
+         <span class="sr-only">Wetter in </span>
+         <span class="capital">{{capital}}</span>
+         <span class="description sr-only">{{symbolAlttext}}</span>
+         <img class="icon" aria-hidden="true" src="https://wetter.orf.at/static/wetter/3_3/images/icons/{{dayNight}}/svg/{{symbol}}.svg" width="37" height="37" alt="{{symbolAlttext}}" />
+         <span class="temperature">{{temperature}} &deg;C</span>
+      </a>
+   </script>
+</div>
+
+
+
+      </div>
+      <div class="flag-area">
+         <div class="oon-flag" data-flag="news-front-desktop-header.json"></div>
+
+
+      </div>
+      <nav class="drawer-navigation">
+         <button class="drawer-button" aria-expanded="false" aria-controls="drawer-wrapper">
+   <span class="sr-only">Navigation</span>
+   <span class="drawer-button-image"></span>
+</button>
+
+
+
+         <div class="drawer-wrapper" id="drawer-wrapper" aria-hidden="true">
+   <div class="drawer-content">
+      
+      
+
+      
+      <ul class="drawer-network-navigation">
+         <li><a href="https://orf.at/">News</a></li>
+         <li><a href="https://sport.orf.at/">Sport</a></li>
+         <li><a href="https://wetter.orf.at/m/">Wetter</a></li>
+         <li><a href="https://oesterreich.orf.at/m/">&Ouml;sterreich</a></li>
+         <li><a href="https://debatte.orf.at">Debatte</a></li>
+         <li><a href="https://sound.orf.at">Sound</a></li>
+         <li><a href="https://topos.orf.at/">Topos</a></li>
+         <li><a href="https://on.orf.at/">ORF ON</a></li>
+         <li><a href="https://kids.orf.at/">ORF KIDS</a></li>
+         <li><a href="https://tv.orf.at/">Fernsehen</a></li>
+         <li><a href="https://orf.at/uebersicht/">Alle ORF Angebote</a></li>
+      </ul>
+   </div>
+</div>
+
+
+      </nav>
+   </div>
+</header>
+<div class="drawer-dimmer"></div>
+
+<div
+    class="vue-oon-product-navigation"
+    data-level="one"
+    data-back-button-href='https://orf.at/'
+    data-page-title='ORF.at'
+
+
+></div>
+
+
+      <main class="content front" id="content" tabindex="-1">
+         
+<div id="ticker-breaking-special"></div>
+
+<div class="oon-grid oon-grid-alias-news"><div class="oon-grid-top">
+<div class="oon-grid-item oon-grid-item-version-2q
+      oon-grid-col-1 oon-grid-row-0
+      oon-grid-idx-0"
+>
+
+      <a href="https://orf.at/stories/3388099/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/50/crops/w=590,h=393,q=70,r=1/2559555_master_981550_usa_trump_politik_realitaetscheck_im.jpg?s=2edf131be2e33278acd7e2ac2a845f6770c69475 1x, https://assets.orf.at/mims/2025/12/50/crops/w=590,h=393,q=60,r=2/2559555_master_981550_usa_trump_politik_realitaetscheck_im.jpg?s=219347c4b5c466acee9057943ce2abc045807c6e 2x, https://assets.orf.at/mims/2025/12/50/crops/w=590,h=393,q=80,r=3/2559555_master_981550_usa_trump_politik_realitaetscheck_im.jpg?s=813b5a4beb851707a4a53aa48ebc2194888cd6eb 3x"
+      width="590"
+      height="393"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/50/crops/w=1020,h=580,q=70,r=1/2559555_master_981550_usa_trump_politik_realitaetscheck_im.jpg?s=7f62dc0f7f72a0685a396ce58275d068bea39e02 1x, https://assets.orf.at/mims/2025/12/50/crops/w=1020,h=580,q=60,r=2/2559555_master_981550_usa_trump_politik_realitaetscheck_im.jpg?s=e497c7649b6fb5da0cbb29eba9e9b5837976f160 2x, https://assets.orf.at/mims/2025/12/50/crops/w=1020,h=580,q=80,r=3/2559555_master_981550_usa_trump_politik_realitaetscheck_im.jpg?s=51881e66b1f1cd1a15485e9a7cf33edc27f7e7e1 3x"
+      width="1020"
+      height="580"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/50/crops/w=347,q=90,r=1/2559563_2q_981550_usa_trump_politik_realitaetscheck_im.jpg?s=a53ef65c13cea3330b2f322feddbe1a6d2f2f584 1x, https://assets.orf.at/mims/2025/12/50/crops/w=347,q=80,r=2/2559563_2q_981550_usa_trump_politik_realitaetscheck_im.jpg?s=62ac302822590cd56697e4aed38428475f5e1ab1 2x, https://assets.orf.at/mims/2025/12/50/crops/w=347,q=80,r=3/2559563_2q_981550_usa_trump_politik_realitaetscheck_im.jpg?s=ea0b5ea32427006f79268701d33fa668087697f5 3x"
+      width="347"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/50/crops/w=347,q=90,r=2/2559563_2q_981550_usa_trump_politik_realitaetscheck_im.jpg?s=1873775457d7709a0274a56c8d37755bc0ceff8b"
+   alt="Person mit MAGA-Kappe vor US-Kapitol"
+   title="&copy; IMAGO/Sipa USA"
+   width="347"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      Von Ukraine bis Venezuela:
+      <br/>
+      Trumps Pläne und die Realität
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Von Ukraine bis Venezuela: Trumps Pläne und die Realität
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-2q
+      oon-grid-col-2 oon-grid-row-1
+      oon-grid-idx-1"
+>
+
+      <a href="https://orf.at/stories/3388384/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/75/crops/w=590,h=295,q=70,r=1/2563324_master_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=c441be570aa87c9a3d3c6e4171630b08683d9321 1x, https://assets.orf.at/mims/2025/12/75/crops/w=590,h=295,q=60,r=2/2563324_master_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=939b9cbd82fd8ed5b03c23316f9600c890f64cca 2x, https://assets.orf.at/mims/2025/12/75/crops/w=590,h=295,q=80,r=3/2563324_master_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=e64d8e5a9e96763fb5792105b3159e1a02b9f4ed 3x"
+      width="590"
+      height="295"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/75/crops/w=500,h=580,q=70,r=1/2563324_master_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=0abe8edab9b45e0dc21f95111561d463ec9a3d48 1x, https://assets.orf.at/mims/2025/12/75/crops/w=500,h=580,q=60,r=2/2563324_master_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=1016923a1a6d4c6f5b9d27b7a07bdad8f0d0742c 2x, https://assets.orf.at/mims/2025/12/75/crops/w=500,h=580,q=80,r=3/2563324_master_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=28bf82538e3494a4b287fe639aeea8cbb5ccd622 3x"
+      width="500"
+      height="580"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/75/crops/w=347,q=90,r=1/2563331_2q_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=f9711bef5d470d045f8302fb6ed24787fb4193d0 1x, https://assets.orf.at/mims/2025/12/75/crops/w=347,q=80,r=2/2563331_2q_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=10d870f7a53d5d22eff4b4db40fa051d3c9168c9 2x, https://assets.orf.at/mims/2025/12/75/crops/w=347,q=80,r=3/2563331_2q_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=1d826bc4f540b94c0ff2fa041c5dfcba08f3fc57 3x"
+      width="347"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/75/crops/w=347,q=90,r=2/2563331_2q_983075_tuerkei_proteste_vrhaftung_imamoglu_afp.jpg?s=93500865da71cde1040caa55eb03c1421ad710a8"
+   alt="Demonstration in Istanbul"
+   title="&copy; APA/AFP/Yasin Akgul"
+   width="347"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      Imamoglu-Festnahme:
+      <br/>
+      Neue Großdemo in Istanbul
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Imamoglu-Festnahme: Neue Großdemo in Istanbul
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-2h
+      oon-grid-col-0 oon-grid-row-0
+      oon-grid-idx-2"
+>
+
+      <a href="https://orf.at/stories/3388302/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/96/crops/w=590,h=295,q=70,r=1/2562338_master_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=d0a07b39fe5a696a2be5638563eb1336db5c7dc7 1x, https://assets.orf.at/mims/2025/12/96/crops/w=590,h=295,q=60,r=2/2562338_master_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=b2ab0fd527cf9f27c39a2a4148f04ef47aafde75 2x, https://assets.orf.at/mims/2025/12/96/crops/w=590,h=295,q=80,r=3/2562338_master_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=33feb733c14fec0a560c54d1036d043cdb99430d 3x"
+      width="590"
+      height="295"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/96/crops/w=500,h=280,q=70,r=1/2562338_master_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=48d89dd293807a8ee4cbf366e32f2f7559b0f660 1x, https://assets.orf.at/mims/2025/12/96/crops/w=500,h=280,q=60,r=2/2562338_master_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=bac34335d525dc4ed18f374bfb1f43dc4d81cd3f 2x, https://assets.orf.at/mims/2025/12/96/crops/w=500,h=280,q=80,r=3/2562338_master_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=339121f58322efbdf5dbfef531f1627114601165 3x"
+      width="500"
+      height="280"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/96/crops/w=171,q=90,r=1/2562348_2h_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=2bb4c6a8415783734cf44c0101df142fab360681 1x, https://assets.orf.at/mims/2025/12/96/crops/w=171,q=80,r=2/2562348_2h_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=0211a0b6b042e817728d095232cf5846ebad67b0 2x, https://assets.orf.at/mims/2025/12/96/crops/w=171,q=80,r=3/2562348_2h_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=8f852708b214dd73986a009067e23c3efaebc636 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/96/crops/w=171,q=90,r=2/2562348_2h_982696_israel_schin_bet_bar_entlassung_netanjahu_ap.jpg?s=f0898df6819d2f6918fd3376f049c367ab526ea0"
+   alt="Benjamin Netanjahu"
+   title="&copy; AP/Israeli Government Press Office"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Netanjahus Kampf mit Israels Institutionen
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Netanjahus Kampf mit Israels Institutionen
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-3 oon-grid-row-0
+      oon-grid-idx-3"
+>
+
+      <a href="https://orf.at/stories/3388386/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/84/crops/w=295,h=171,q=70,r=1/2563346_master_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=9753adf8b877b07dd06407a37b55f686e0d9bbb8 1x, https://assets.orf.at/mims/2025/12/84/crops/w=295,h=171,q=60,r=2/2563346_master_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=c90f79d8259143d5a30a862c5866c57fe33c3c81 2x, https://assets.orf.at/mims/2025/12/84/crops/w=295,h=171,q=80,r=3/2563346_master_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=a826323a9083508cd81cef55e387cc3efc5f95fa 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/84/crops/w=500,h=280,q=70,r=1/2563346_master_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=31e10e03931a57d930c7cb8f2fb300f54fa0f8f8 1x, https://assets.orf.at/mims/2025/12/84/crops/w=500,h=280,q=60,r=2/2563346_master_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=75c7a630556ecaa67a9695bd1bac20337c8aa864 2x, https://assets.orf.at/mims/2025/12/84/crops/w=500,h=280,q=80,r=3/2563346_master_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=67ef480e8f78b6d5627c8b440914db14b2ca9085 3x"
+      width="500"
+      height="280"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/84/crops/w=171,q=90,r=1/2563354_1k_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=0b124bcbeab075bcf6178698267d31ccc0a3d036 1x, https://assets.orf.at/mims/2025/12/84/crops/w=171,q=80,r=2/2563354_1k_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=4ccf4904e10bd6ac7282e9cec3d3b553b7a8bbcf 2x, https://assets.orf.at/mims/2025/12/84/crops/w=171,q=80,r=3/2563354_1k_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=7014a7e48d828c54dfcfdfab8e871ca9bda3b333 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/84/crops/w=171,q=90,r=2/2563354_1k_983084_gb_heathrow_airport_vollbetrieb_r.jpg?s=be8f939905c23612bf845287d413fd3c257e0a86"
+   alt="Passagiermaschine am Flughafen London-Heathrow "
+   title="&copy; Reuters/Carlos Jasso"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-8">
+   <h1>
+      
+      
+      Stromausfall: Heathrow wieder in Vollbetrieb
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-9 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Nach Stromausfall: Heathrow wieder in Vollbetrieb
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-1 oon-grid-row-1
+      oon-grid-idx-4"
+>
+
+      <a href="https://sport.orf.at/stories/3139387/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/68/crops/w=295,h=171,q=70,r=1/2563344_master_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=9174c8eac1b334ddedc47c03d4e9c7b8416169cd 1x, https://assets.orf.at/mims/2025/12/68/crops/w=295,h=171,q=60,r=2/2563344_master_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=59bf488bfa8b94792e0a616c06ea0d72f2e583ed 2x, https://assets.orf.at/mims/2025/12/68/crops/w=295,h=171,q=80,r=3/2563344_master_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=1dd63c862f7d83fb9a7e6beed7ac01baa30034b2 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/68/crops/w=500,h=280,q=70,r=1/2563344_master_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=9c2de785a95ea5e65f6cdd353a291109d8b9d68a 1x, https://assets.orf.at/mims/2025/12/68/crops/w=500,h=280,q=60,r=2/2563344_master_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=0976ef6ada520f8297306065bc6800ba8af1ac0c 2x, https://assets.orf.at/mims/2025/12/68/crops/w=500,h=280,q=80,r=3/2563344_master_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=979cb7374970bf5a89fd8e1bb114d67507c6f2f2 3x"
+      width="500"
+      height="280"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/68/crops/w=171,q=90,r=1/2563345_1k_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=e2888b50cf74807f65a2b3ebba1b49c128e23a00 1x, https://assets.orf.at/mims/2025/12/68/crops/w=171,q=80,r=2/2563345_1k_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=62d92452198b74fa36612a11c844466587826918 2x, https://assets.orf.at/mims/2025/12/68/crops/w=171,q=80,r=3/2563345_1k_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=2b629d64751e78e57649662abf9d05dc37540a95 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/68/crops/w=171,q=90,r=2/2563345_1k_983068_chronik_boxen_foreman_gestorben_ap.jpg?s=e4a02d11c382bed9a494525acc59d37941ba7fcf"
+   alt="George Foreman "
+   title="&copy; AP"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> Sport </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Sportwelt trauert um Boxlegende Foreman
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> Sport </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Sportwelt trauert um Boxlegende Foreman
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<!-- top area close --> </div> <div class="oon-grid-overflow">
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-4 oon-grid-row-0
+      oon-grid-idx-5"
+>
+
+      <a href="https://sport.orf.at/stories/3139372">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/51/crops/w=295,h=171,q=70,r=1/2563263_master_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=736cb63099d426cacd5e12470781c69adaf9ad29 1x, https://assets.orf.at/mims/2025/12/51/crops/w=295,h=171,q=60,r=2/2563263_master_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=0eabcdd840cf825e2d6da07a80d3d97d2d33750b 2x, https://assets.orf.at/mims/2025/12/51/crops/w=295,h=171,q=80,r=3/2563263_master_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=32dc8ea0cd92194d4945d843dfb5b2dfaeaa6f91 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/51/crops/w=328,h=185,q=70,r=1/2563263_master_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=86d17b19a6244257377818223937488a895d754c 1x, https://assets.orf.at/mims/2025/12/51/crops/w=328,h=185,q=60,r=2/2563263_master_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=1a7f67fab139427a2bf885acfa37ea643c9a4d9f 2x, https://assets.orf.at/mims/2025/12/51/crops/w=328,h=185,q=80,r=3/2563263_master_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=b76e247e430eb1a4ff22fb62016d45accd2564ad 3x"
+      width="328"
+      height="185"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/51/crops/w=171,q=90,r=1/2563264_1k_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=89e5ba8657fd648039bd03bd9b425f384a8e719c 1x, https://assets.orf.at/mims/2025/12/51/crops/w=171,q=80,r=2/2563264_1k_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=e342ed0d817ef6539085964e7283cc6c0e42c40d 2x, https://assets.orf.at/mims/2025/12/51/crops/w=171,q=80,r=3/2563264_1k_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=1b0c3f157fb540fa4179acfa73cc58c8ae61e4db 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/51/crops/w=171,q=90,r=2/2563264_1k_983051_f1_china_sprint_hamilton_sieg_r.jpg?s=59a6df4bdcbefa1160e6fb7d883e1d4e9ea7a3d3"
+   alt="Lewis Hamilton (Ferrari)"
+   title="&copy; Reuters/Tyrone Siu"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-left">
+   <span> Sport </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-9">
+   <h1>
+      Hamilton sorgt
+      <br/>
+      für Ferrari-Premiere
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-left">
+   <span> Sport </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Hamilton sorgt für Ferrari-Premiere
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-4 oon-grid-row-1
+      oon-grid-idx-6"
+>
+
+      <a href="https://steiermark.orf.at/stories/3298123/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2025/12/19/crops/w=295,h=171,q=70,r=1/2563418_master_983119_2563400_master_983114_rk_stmk_02.jpg?s=dd560c0acad714a996e4d77455997881dbb222e0 1x, https://assets.orf.at/mims/2025/12/19/crops/w=295,h=171,q=60,r=2/2563418_master_983119_2563400_master_983114_rk_stmk_02.jpg?s=a1d3bde78a8b8afc349a65e7e885b6e70b61d4e4 2x, https://assets.orf.at/mims/2025/12/19/crops/w=295,h=171,q=80,r=3/2563418_master_983119_2563400_master_983114_rk_stmk_02.jpg?s=632af8868208f2d10153ee05053c0fc17e5a9101 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2025/12/19/crops/w=328,h=185,q=70,r=1/2563418_master_983119_2563400_master_983114_rk_stmk_02.jpg?s=952c581ec39fa6f703e9e32f6a808c2aa6bfeb9c 1x, https://assets.orf.at/mims/2025/12/19/crops/w=328,h=185,q=60,r=2/2563418_master_983119_2563400_master_983114_rk_stmk_02.jpg?s=b46ebfd764e9d8e4cd8b559b29331dc29cb189a1 2x, https://assets.orf.at/mims/2025/12/19/crops/w=328,h=185,q=80,r=3/2563418_master_983119_2563400_master_983114_rk_stmk_02.jpg?s=a9180e31679483bd42aa2836481523098becad6a 3x"
+      width="328"
+      height="185"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2025/12/19/crops/w=171,q=90,r=1/2563419_1k_983119_2563400_master_983114_rk_stmk_02.jpg?s=b54f035c40ef0b43ffd1fa474d9ef160cd42d20c 1x, https://assets.orf.at/mims/2025/12/19/crops/w=171,q=80,r=2/2563419_1k_983119_2563400_master_983114_rk_stmk_02.jpg?s=f219293c6e2e70367a4d6faddae7cb1c2ce8f038 2x, https://assets.orf.at/mims/2025/12/19/crops/w=171,q=80,r=3/2563419_1k_983119_2563400_master_983114_rk_stmk_02.jpg?s=104cc6e8882267aae4c39c98c5e4bd4bf7e3ab47 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2025/12/19/crops/w=171,q=90,r=2/2563419_1k_983119_2563400_master_983114_rk_stmk_02.jpg?s=3ee69ce302c4b6d7e1d76ad3055f5035f037615f"
+   alt="Einsatzkräfte an der Unfallstelle"
+   title="&copy; Rotes Kreuz Steiermark"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-left">
+   <span> Österreich </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Ein Toter und Verletzte nach Kleinbusunfall
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-left">
+   <span> Österreich </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Steiermark: Ein Toter und Verletzte nach Kleinbusunfall
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<!-- close overflow wrapper --> </div>
+</div>
+
+<div class="flag-ticker-mobile oon-flag" data-flag="news-front-mobile-grid.json" data-is-mobile="true"></div>
+
+
+
+<div class="ticker" id="ticker">
+   <div class="ticker-ressort inland">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Inland</span></h2>
+      <div class="ticker-ressort-stories">
+         
+<article class="ticker-story"
+   data-id="3388409"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3388409"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388409/" id="story3388409" role="button" aria-controls="ticker-story-text-3388409" aria-expanded="false">
+            „Hate-Crime“: Zahl der Festnahmen auf 17 gestiegen
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388409">
+         
+         <div class="story-story">
+            <p>Bei den „Hate-Crime“-Ermittlungen im Auftrag der Staatsanwaltschaft Graz sind nach Angaben von Behördensprecher Christian Kroschl von heute bisher 17 Personen festgenommen worden. Bei 13 der in Österreich gefassten Verdächtigen sei die Einlieferung in die Justizanstalt angeordnet worden. Das Gericht werde im Laufe des Wochenendes über die Verhängung der Untersuchungshaft entscheiden.</p><p>Hinsichtlich einer in der Slowakei festgenommenen Person sei bei den Behörden des Nachbarlandes die Auslieferung beantragt worden, teilte Kroschl weiter mit. Darüber hinaus seien 26 Hausdurchsuchungen vollzogen worden.</p><p>„Dabei wurden zahlreiche Gegenstände sichergestellt und die Datenträger der Beschuldigten zwecks kriminaltechnischer Auswertung beschlagnahmt“, so der Sprecher der Staatsanwaltschaft. Er wies nicht zuletzt darauf hin, dass mehr Informationen in dem Fall „derzeit aus kriminaltaktischen Gründen leider nicht möglich“ seien.</p><p>Die Polizei hatte zuvor auf Anfrage mitgeteilt, dass weitere Täter, Taten und Opfer ermittelt worden sowie Festnahmen erfolgt seien. Zumindest 17 Opfer wurden ermittelt.</p><p><a href="https://orf.at/stories/3388357/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388409/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388385"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3388385"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388385/" id="story3388385" role="button" aria-controls="ticker-story-text-3388385" aria-expanded="false">
+            Marterbauer sieht allfälliges EU-Defizitverfahren gelassen
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388385">
+         
+         <div class="story-story">
+            <p>Finanzminister Markus Marterbauer (SPÖ) sieht einem allfälligen EU-Defizitverfahren gelassen entgegen. Er würde gerne etwas zur Entdramatisierung beitragen wollen, sagte Marterbauer in der Ö1-Sendereihe „Im Journal zu Gast“. So ein Verfahren sei „kein Hals- und Beinbruch“, so der SPÖ-Minister. „Es bedeutet im Wesentlichen, dass man die Budgetmaßnahmen laufend im Quartal mit der Kommission abstimmt. Also ich fürchte mich davor überhaupt nicht.“</p><p>Finanzstaatssekretärin Barbara Eibinger-Miedl (ÖVP) hatte sich zuletzt in einem APA-Interview wenig optimistisch gezeigt, dass angesichts der trüben Wirtschaftsaussichten das geplante Konsolidierungsvolumen von 6,4 Mrd. Euro heuer reichen werde.</p><p>Über mögliche Nachbesserungen wollte sie jedoch noch nicht spekulieren. Eibinger-Miedl schloss aber nichts aus. „Wir werden notfalls wie andere Länder auch mit einem Defizitverfahren umgehen können“, wenn man sonst Gefahr laufe, die Konjunktur abzuwürgen, so die ÖVP-Staatssekretärin.</p><p>Marterbauer erklärte gegenüber dem „Ö1-Journal“, er könne diese „Position unterstreichen und unterstützen“. Er habe 17 Jahre lang die Konjunkturprognosen am Wirtschaftsforschungsinstitut (WIFO) geleitet. „Ich weiß daher ungefähr, wohin die Reise geht.“</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388385/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388380"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3388380"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388380/" id="story3388380" role="button" aria-controls="ticker-story-text-3388380" aria-expanded="false">
+            Plakolm erwägt Verschärfung des Islamgesetzes
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388380">
+         
+         <div class="story-story">
+            <p>Integrationsministerin Claudia Plakolm (ÖVP) erwägt eine Verschärfung des Islamgesetzes. Denn man sehe in der Praxis, dass es mit einzelnen Moscheen Probleme gebe, meinte sie im APA-Interview. Wo Änderungen vorgenommen werden könnten, sei noch Gegenstand von Beratungen. Beim Kopftuchverbot für Kinder denkt Plakolm ein Stufenmodell an.</p><p>Ob bei einem verlängerten Grundwehrdienst auch der Zivildienst verlängert werden könnte, ließ die zuständige Ministerin offen. Zunächst gelte es abzuwarten, zu welchem Ergebnis die vom Verteidigungsministerium geplante Expertenkommission kommen werde, sagte Plakolm. Sie habe aber immer schon mit der Verteidigungsministerin eine sehr gute Zusammenarbeit gehabt, „im Gleichschritt beide Bereiche für junge Menschen zu attraktiveren“.</p><h3>Freiwillige Verlängerung des Zivildiensts</h3><p>Was jedenfalls kommen soll, ist das Comeback eines verlängerten freiwilligen Zivildienstes. Das sei vor allem für Burschen interessant, die eine Ausbildung machen wollten und den Zeitraum bis zu deren Beginn überbrücken wollten. Auch wäre es eine Unterstützung für die Einrichtungen, umso mehr, als auch der Zivildienst vielfach der fliegende Übergang zu einer Tätigkeit in einem der Bereiche sei.</p><p>Deutlich umstrittener ist ein anderes die Jugend betreffendes Thema, nämlich das geplante Kopftuchverbot bis 14. Dass sie es umsetzen wird, dazu ist Plakolm jedoch entschlossen: „Wir lassen es nicht zu, dass junge Mädchen unterdrückt werden.“ Frauen seien vor allem in jenen Ländern verschleiert, wo der radikale Islam im Vormarsch sei. Ein fixes Modell dafür gibt es noch nicht, da sich Plakolm mit Fachleuten noch entsprechend beraten will.</p><h3>Sanktionen bei Integrationsprogramm</h3><p>Das gilt für die Integration insgesamt, weshalb die zuständige Ministerin auch das geplante verpflichtende Integrationsprogramm für Asylberechtigte und Flüchtlinge mit hoher Bleibewahrscheinlichkeit ausdrücklich unterstützt. Man sage, was man erwarte, und das könne auch eingefordert werden. Dafür müsse es auch die Möglichkeit für Sanktionen geben, wenn das Programm nicht entsprechend absolviert werde: „Sonst wäre das zahnlos.“</p><p>„Klar“ ist für die Integrationsministerin, dass es ein Problem mit Radikalisierung im Zusammenhang mit dem radikalen Islam gebe. Daher müsse man im Detail ansehen, wie das Islamgesetz aktualisiert werden könnte: „Man muss sehr wohl nachdenken, ob der Status quo nicht überarbeitet gehört.“ Denn man sehe in der Praxis, dass es mit einzelnen Moscheen Probleme gibt: „Hier muss man den Riegel vorschieben.“</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388380/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388379"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3388379"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388379/" id="story3388379" role="button" aria-controls="ticker-story-text-3388379" aria-expanded="false">
+            Asylanträge von Personen aus Syrien weiter rückläufig
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388379">
+         
+         <div class="story-story">
+            <p>Nach dem Machtwechsel in Damaskus und dem Stopp der Behandlung von syrischen Asylanträgen sinkt die Zahl der entsprechenden Ansuchen in Österreich weiter. Im Februar wurden 315 Anträge eingebracht. Das ist gerade einmal ein wenig mehr als die Hälfte der Ansuchen vom Jänner (618). Noch aussagekräftiger ist der Vergleich zum Februar des Vorjahres. Da wurden 1.308 Anträge von Syrern und Syrerinnen abgegeben.</p><p>Insgeamt wurden im Februar 1.397 Anträge eingebracht, was ein Minus von 37 Prozent gegenüber dem Vergleichsmonat 2024 bedeutet. Überhaupt gab es letztmals 2020 so niedrige Werte.</p><h3>Behandlung nur noch in Ausnahmefällen</h3><p>Nur noch in Ausnahmen werden Asylanträge von Syrern und Syrerinnen aktuell behandelt. So erhielten im heurigen Jahr auch lediglich 39 Asylstatus. Zum Vergleich: 860 Afghanen und Afghaninnen wurde der Asyltitel zuerkannt. Insgesamt wurde 2025 in 1.240 Fällen Asyl gewährt. Dazu kommen noch 444 Aufenthaltstitel entweder bezüglich subsidiärem Schutz oder aus berücksichtigungswerten Gründen.</p><h3>Afghanen antragsstärkste Gruppe</h3><p>An erster Stelle in der Antragsstatistik liegt im Februar wie schon im Jänner Afghanistan. Hier wurden 568 Anträge gestellt, wobei nur 120 Ansuchen neu sind. Die übrigen sind Folgeanträge bzw. Anträge von in Österreich geborenen Kindern.</p><p>Hier wirkt weiter eine Entscheidung des EuGH nach, dass für afghanische Frauen kein individuelles Verfahren geführt werden muss. Deshalb stellen weibliche Schutzberechtigte in Österreich nun häufig Anträge auf Asyl, wenn nur subsidiärer Schutz gewährt wurde.</p><p>Gesamt gab es heuer 3.315 Asylanträge. Im Vorjahr waren es in den ersten beiden Monaten 4.489. Fast 52 Prozent der Antragsteller sind unter 18.</p><h3>Familiennachzug schwach</h3><p>Beim Familiennachzug, der ja von der Regierung vorläufig ausgesetzt worden soll, tut sich aktuell wenig. Waren es im Vergleichsmonat 2024 noch fast 1.000 Einreisen zum Zweck der Familienzusammenführung, ist diese Zahl im Februar dieses Jahres auf 60 geschrumpft. Auch das hängt damit zusammen, dass die Anträge von Syrern und Syrerinnen aktuell zwar angenommen, aber im Regelfall vorläufig nicht behandelt werden.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388379/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388402"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388350/" id="story3388402">
+            OGH berät: BUWOG-Prozess vor Abschluss
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort ausland">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Ausland</span></h2>
+      <div class="ticker-ressort-stories">
+         
+<article class="ticker-story"
+   data-id="3388390"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388390"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388390/" id="story3388390" role="button" aria-controls="ticker-story-text-3388390" aria-expanded="false">
+            Israel: Raketen abgefangen, Angriffe im Südlibanon
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388390">
+         
+         <div class="story-story">
+            <p>Das israelische Militär hat nach eigenen Angaben in der Früh drei Raketen aus dem Libanon im Norden Israels abgefangen. Zuvor seien in der Stadt Metula die Warnsirenen zu hören gewesen. Es gab zunächst keine Berichte über Schäden oder Verletzte. Israel machte keine Angaben, wer für den Beschuss verantwortlich ist – die libanesische Hisbollah-Miliz äußerte sich nicht dazu.</p><p>Israel griff nach libanesischen Angaben erneut Ziele im südlichen Libanon an. Die Armee habe einen Ort nahe der Stadt Nabatäa mit Artillerie beschossen, hieß es aus libanesischen Sicherheitskreisen.</p><p>Die Staatsagentur NNA berichtete von israelischen Kampfflugzeugen im Süden und Angriffen mit Artillerie, Panzern und Maschinengewehren in mehreren Orten. Nach israelischen Medienberichten reagierte die Armee mit Artilleriefeuer auf die Abschussstelle der Raketen.</p><h3>Netanjahu bestätigt Angriffe auf Ziele im Libanon</h3><p>Israels Ministerpräsident Benjamin Netanjahu bestätigte Angriffe auf die Hisbollah-Miliz im Libanon. Damit werde auf Raketenbeschuss aus dem nördlichen Nachbarland reagiert, teilte der Regierungschef in einer Stellungnahme mit. Die Streitkräfte seien angewiesen worden, massiv gegen Dutzende von Terrorzielen vorzugehen.</p><h3>Libanons Ministerpräsident warnt vor „neuem Krieg“</h3><p>Libanons Ministerpräsident Nauaf Salam warnte, dass Israel sein Land in einen „neuen Krieg“ ziehen könne. Die Vereinten Nationen müssten international den Druck erhöhen, um einen Abzug Israels aus dem Libanon zu erreichen.</p><p>Die vom Iran unterstützte Hisbollah hatte Israel seit dem Beginn des Gaza-Kriegs im Oktober 2023 mehr als ein Jahr lang mit Raketen beschossen. Sie wollte damit nach eigenen Angaben die Hamas unterstützen. Israel antwortete mit schweren Luftangriffen und einer Bodenoffensive.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388390/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388382"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388382"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388382/" id="story3388382" role="button" aria-controls="ticker-story-text-3388382" aria-expanded="false">
+            Slowakei: Tausende bei Protesten gegen Premier Fico
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388382">
+         
+         <div class="story-story">
+            <p>Tausende Menschen haben gestern Abend in mehreren Städten der Slowakei gegen die Regierung des linksnationalen Ministerpräsidenten Robert Fico demonstriert. Sie warfen ihr autoritäre Tendenzen und einen prorussischen Kurs vor. „Die Situation ist kritisch!“, warnten Tribünenredner in Bratislava.</p><p>In der zweitgrößten Stadt Kosice wurde Verteidigungsminister Robert Kalinak „Kapitulation“ vor Russland vorgeworfen. In Sprechchören wurde der Rücktritt der Regierung gefordert.</p><p>Aufgerufen zu den Kundgebungen hatte die Bürgerinitiative „Mier Ukrajine“ (Friede der Ukraine), die sich für Waffenlieferungen an die Ukraine engagiert. Die Regierung in Bratislava beharrt darauf, dem Nachbarland zwar zu helfen, aber nur mit „nicht tödlichen“ Gütern. Dazu gehören Minenräumgeräte und Generatoren. Außerdem springt die Slowakei mit Stromlieferungen ein, wenn russische Bombardements die ukrainische Versorgung lahmlegen.</p><h3>Fico bezichtigt Demoorganisatoren der Lügen</h3><p>Fico hatte den Organisatoren schon nach ähnlichen Kundgebungen während der vergangenen Wochen vorgeworfen, „Lügen“ zu verbreiten und Menschen zu manipulieren, indem sie behaupteten, die Regierung erwäge einen Austritt aus EU und NATO. Auch Präsident Peter Pellegrini hatte kritisiert, dass für die Demonstration der Slogan verwendet werde: „Die Slowakei ist Europa!“ Damit werde suggeriert, dass die Regierung die Verankerung der Slowakei in EU und NATO infrage stelle.</p><p>Die Demonstrationsbewegung prangert in ihren Aufrufen verbale Attacken von Politikern des Regierungslagers gegen Künstler und Medien an. Fico wiederum wirft seinen Gegnern vor, eine durch demokratische Wahlen legitimierte Regierung stürzen zu wollen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388382/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388392"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388392"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388392/" id="story3388392" role="button" aria-controls="ticker-story-text-3388392" aria-expanded="false">
+            Niger: Drei Tage Staatstrauer nach Anschlag mit 44 Toten
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388392">
+         
+         <div class="story-story">
+            <p>In Niger hat die regierende Militärjunta nach einem Anschlag mit 44 Toten eine dreitägige Staatstrauer ab heute angeordnet. „Schwer bewaffnete Terroristen“ der Dschihadistenmiliz Islamischer Staat (IS) hätten gestern bei einem Anschlag auf eine Moschee in Kokorou im Südwesten des Landes 44 Zivilisten getötet, teilte das Innenministerium im Staatsfernsehen mit. 13 weitere Menschen wurden demnach verletzt, darunter seien vier Schwerverletzte.</p><p>Die Dschihadisten hätten zudem einen Markt und mehrere Häuser in dem ländlichen Gebiet in der Nähe zu Burkina Faso und Mali in Brand gesetzt. Die Angreifer und ihre Hintermänner würden „aufgespürt und vor die zuständigen Gerichte gebracht“, hieß es weiter in der Erklärung des Innenministeriums.</p><p>Im Dreiländereck zwischen Niger, Mali und Burkina Faso sind seit Langem Dschihadisten aktiv, die Verbindungen zum Islamischen Staat (IS) und zu al-Kaida unterhalten und regelmäßig blutige Anschläge verüben. Seit Juli 2023 wurden mindestens 2.400 Menschen in Niger durch die Gewalt getötet, wie Daten der Nichtregierungsorganisation ACLED zeigen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388392/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388389"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388389"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388389/" id="story3388389" role="button" aria-controls="ticker-story-text-3388389" aria-expanded="false">
+            Venezolaner abgeschoben: Trump bestreitet Beteiligung
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388389">
+         
+         <div class="story-story">
+            <p>Im juristischen Konflikt über die Abschiebung von mehr als 200 Venezolanern aus den USA hat US-Präsident Donald Trump bestritten, diese selbst veranlasst zu haben. „Ich weiß nicht, wann es unterzeichnet wurde, weil ich es nicht unterschrieben habe. Andere Leute haben sich darum gekümmert“, sagte er gestern vor Journalisten. Tatsächlich existiert aber das Dokument mit Trumps Unterschrift.</p><p>Trumps Regierung hatte am vergangenen Wochenende 238 Migranten aus Venezuela nach El Salvador abgeschoben und dafür ein 1798 verabschiedetes Gesetz gegen „ausländische Feinde“ angewandt. Das Weiße Haus erklärte im Anschluss über seine Pressestelle, Trump habe eine Verfügung unter Berufung auf den „Alien Enemies Act“ unterzeichnet. Das Dokument mit Trumps Unterschrift taucht außerdem im Bundesregister auf.</p><h3>Verweis auf Außenminister Rubio</h3><p>Im Gegensatz dazu verwies der Präsident jetzt auf seinen Außenminister: „Marco Rubio hat einen tollen Job gemacht.“ Rubio habe die Venezolaner „raus haben“ wollen, „und wir stimmen dem zu“, sagte Trump.</p><p>Den abgeschobenen Männern wird vorgeworfen, Mitglieder der venezolanischen Drogenbande „Tren de Aragua“ zu sein. Das mehr als 200 Jahre alte Gesetz war in der US-Geschichte zuvor nur in Kriegszeiten angewandt worden – im Britisch-Amerikanischen Krieg von 1812, im Ersten Weltkrieg und vor allem im Zweiten Weltkrieg.</p><h3>„Unglaublich beunruhigend, problematisch und besorgniserregend“</h3><p>Darauf verwies gestern auch Bundesrichter James Boasberg. Er nannte die politischen Konsequenzen der Anwendung des Gesetzes „unglaublich beunruhigend, problematisch und besorgniserregend“.</p><p>Boasberg hatte bereits am vergangenen Wochenende angeordnet, dass die Abschiebeflüge mit den Venezolanern an Bord wieder in die USA zurückkehren müssten. Die Männer waren trotzdem nach El Salvador ausgeflogen und dort in einem berüchtigten Gefängnis inhaftiert worden. Das Weiße Haus argumentierte in der Folge, die Flugzeuge seien zum Zeitpunkt der richterlichen Anordnung bereits in der Luft gewesen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388389/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388377"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388377"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388377/" id="story3388377" role="button" aria-controls="ticker-story-text-3388377" aria-expanded="false">
+            Paris, Berlin, London: Rückkehr zu Waffenstillstand in Gaza
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388377">
+         
+         <div class="story-story">
+            <p>Deutschland, Frankreich und Großbritannien fordern eine sofortige Rückkehr zu einem Waffenstillstand in Nahost.</p><p>„Die Wiederaufnahme der israelischen Angriffe in Gaza ist ein dramatischer Rückschritt für die Menschen in Gaza, die Geiseln, ihre Familien und die gesamte Region. Wir sind entsetzt über die Opfer unter der Zivilbevölkerung und fordern dringend die sofortige Rückkehr zu einem Waffenstillstand“, heißt es in einer gemeinsamen Erklärung der drei Länder.</p><p>„Wir fordern alle Parteien auf, wieder Verhandlungen aufzunehmen, um sicherzustellen, dass der Waffenstillstand vollständig umgesetzt wird und dauerhaft ist.“</p><p>Dazu gehöre auch, dass die radikalislamisch Hamas die Geiseln freilasse. Ein dauerhafter Waffenstillstand sei der einzige glaubwürdige Weg zu einem nachhaltigen Frieden, einer Zweistaatenlösung und dem Wiederaufbau des Gazastreifens.</p><h3>Palästinenser: Mindestens 130 Tote binnen 48 Stunden</h3><p>Nach Angaben der Palästinenser wurden bei der israelischen Offensive binnen 48 Stunden mindestens 130 Menschen getötet. Wie die von der Terrororganisation Hamas kontrollierten Gesundheitsbehörden im Gazastreifen heute Mittag weiter mitteilten, wurden im selben Zeitraum zudem 263 Personen verletzt.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388377/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388407"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388407"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388407/" id="story3388407" role="button" aria-controls="ticker-story-text-3388407" aria-expanded="false">
+            UNICEF: Schulstart ohne Millionen von Mädchen in Afghanistan
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388407">
+         
+         <div class="story-story">
+            <p>In Afghanistan hat das neue Schuljahr begonnen – doch für ältere Mädchen bleiben die Klassen das vierte Jahr in Folge geschlossen. Unter den regierenden islamistischen Taliban ist Bildung für Mädchen ab der siebenten Klasse untersagt. Laut dem UNO-Kinderhilfswerk UNICEF sind in dem Land 2,2 Millionen Mädchen von dem Schulverbot betroffen.</p><p>Die Konsequenzen seien für afghanische Mädchen und das ganze Land katastrophal, sagte UNICEF-Exekutivdirektorin Catherine Russell. Das Verbot habe negative Auswirkungen auf das Gesundheitssystem, die Wirtschaft und die Zukunft der Nation.</p><p>In der Vergangenheit hatte es von den Taliban geheißen, sie wollten Bildung für ältere Mädchen lediglich aussetzen, bis nicht näher genannte Bedingungen dafür geschaffen seien. Bisher wurde in dieser Richtung allerdings nichts unternommen. Anfang dieses Jahres kritisierte der stellvertretende Außenminister der Taliban, Mohammad Abbas Staniksai, das Bildungsverbot als unislamisch.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388407/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort ukraine-krieg">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Ukraine-Krieg</span></h2>
+      <div class="ticker-ressort-stories">
+         
+<article class="ticker-story"
+   data-id="3388391"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388391"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388391/" id="story3388391" role="button" aria-controls="ticker-story-text-3388391" aria-expanded="false">
+            Russland meldet Verletzte nach ukrainischen Angriffen
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388391">
+         
+         <div class="story-story">
+            <p>Bei ukrainischen Drohnenangriffen auf mehrere russische Gebiete sind russischen Angaben zufolge sechs Menschen verletzt worden. Laut russischem Verteidigungsministerium wurden in der Nacht auf heute über den Regionen Woronesch, Belgorod, Rostow, Wolgograd und Astrachan 47 Drohnen „zerstört oder abgefangen“.</p><p>In Rostow wurden demnach mehrere Wohnungen beschädigt. In Gorlowka in der teilweise von Russland besetzten ostukrainischen Region Donezk sei ein Feuerwehrauto getroffen worden.</p><p>Trotz Verhandlungen über den US-Vorschlag für eine Waffenruhe in dem nun mehr als drei Jahre andauernden Konflikt hatten beide Länder ihre gegenseitigen Luftangriffe zuletzt verstärkt.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388391/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388372"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388372"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388372/" id="story3388372" role="button" aria-controls="ticker-story-text-3388372" aria-expanded="false">
+            Ukraine: Tote und Verletzte bei russischen Luftangriffen
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388372">
+         
+         <div class="story-story">
+            <p>Russland hat die Ukraine in der Nacht auf heute nach Angaben des ukrainischen Militärs mit 179 Drohnen angegriffen und damit Schäden unter anderem in der Region Kiew verursacht. 100 Drohnen seien abgeschossen und 63 von der elektronischen Luftabwehr abgefangen worden, teilten die ukrainischen Luftstreitkräfte mit.</p><p>Schäden durch die Drohnenangriffe habe es auch in den Regionen Charkiw, Saporischschja und Sumy gegeben.</p><p>Im Gebiet Sumy wurden laut Behörden mindestens zwei Menschen getötet und vier weitere verletzt worden. In dem Dorf Krasnopillja hätten die Russen sechs Gleitbomben abgeworfen, teilte die Staatsanwaltschaft mit. In einem weiteren Dorf seien zwei Menschen bei einem Angriff auf ein Motorrad verletzt worden.</p><h3>Brand in Kiew nach Einschlag von Trümmern</h3><p>In Kiew rief Bürgermeister Witali Klitschko gestern am Abend die Menschen auf, sich in Schutzräumen in Sicherheit zu bringen.</p>   <figure class="image body landscape">
+      
+      <img class="lazy-loading"
+         src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%206000%204000'%2F%3E"
+         data-src="https://assets.orf.at/mims/2025/12/28/crops/w=800,q=90/2563208_body_983028_ticker_ukraine_r.jpg?s=596c5fa7493ad3f7103cd86e42530bea55cb8a72"
+         data-srcset="https://assets.orf.at/mims/2025/12/28/crops/w=800,q=70,r=1/2563208_body_983028_ticker_ukraine_r.jpg?s=f3635707d7f3dce23de3f1791aa6f0534302bcfd 1x, https://assets.orf.at/mims/2025/12/28/crops/w=800,q=60,r=1.5/2563208_body_983028_ticker_ukraine_r.jpg?s=efb915eb7504ac344549ab367d2dba0ae3281022 1.5x"
+         alt="Zerstörung nach einem russischen Drohnenangriff in der ukrainischen Stadt Odessa"
+      />
+      
+      <footer class="credit" aria-hidden="true">
+          <span class="copyright" title="Reuters/Nina Liashonok">
+   Reuters/Nina Liashonok
+</span>
+
+
+
+      </footer>
+      
+   </figure>
+
+<p>In der Hauptstadt schlugen laut Klitschko Trümmer eines abgeschossenen Flugobjekts in einem Gebäude ein und lösten einen Brand aus. Über Verletzte ist noch nichts bekannt. Die Ukraine wehrt sich seit mehr als drei Jahren gegen den russischen Angriffskrieg.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388372/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+<article class="ticker-story"
+   data-id="3388375"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3388375"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388375/" id="story3388375" role="button" aria-controls="ticker-story-text-3388375" aria-expanded="false">
+            Nordkorea kündigt weitere Unterstützung Russlands an
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388375">
+         
+         <div class="story-story">
+            <p>Nordkoreas Machthaber Kim Jong Un will Russland im Krieg gegen die Ukraine weiter unterstützen. Das habe er bei einem Treffen mit dem Sekretär des russischen Nationalen Sicherheitsrats, Sergej Schoigu, erklärt, berichtete gestern die staatliche Nachrichtenagentur KCNA.</p><p>Kim und Shoigu besprachen Möglichkeiten, den Austausch und die Zusammenarbeit zwischen Russland und Nordkorea in verschiedenen Bereichen, darunter auch im Sicherheitsbereich, auszubauen und zu stärken, schrieb KCNA.</p><p>Schoigu hat Nordkorea bei einem Treffen mit Machthaber Kim seinerseits eine Vertiefung der Zusammenarbeit zugesichert. Er habe Kim über die Wiederaufnahme des Dialogs zwischen Russland und den USA informiert, sagte Schoigu laut einer Mitteilung des Sicherheitsrats.</p><h3>Russischer Dank an Nordkorea</h3><p>Zugleich bestätigte er, dass Moskau weiter zu dem im vergangenen Jahr mit Pjöngjang geschlossenen Vertrag über die strategische Partnerschaft stehe. Bei dem mehr als zweistündigen Treffen in Pjöngjang dankte Schoigu Nordkorea auch besonders für die Solidarität im russischen Krieg in der Ukraine.</p><p>Nordkorea unterstützt Russland in dem Angriffskrieg mit Waffen und auch mit Soldaten. Schoigu überbrachte nach eigener Darstellung eine Grußbotschaft von Kreml-Chef Wladimir Putin. Thema der Gespräche sei nicht zuletzt die Lage auf der koreanischen Halbinsel gewesen, hieß es.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388375/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort wirtschaft">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Wirtschaft</span></h2>
+      <div class="ticker-ressort-stories">
+         
+<article class="ticker-story"
+   data-id="3388365"
+   data-is-live="false"
+   data-oewatag="RedCont/Wirtschaft/Unternehmensberichterstattung/v1news/stories/ticker/3388365"
+   data-adworxcat="wir"
+   data-adworxtarget="Wirtschaft"
+   data-adworxsubtarget="Unternehmensberichterstattung"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388365/" id="story3388365" role="button" aria-controls="ticker-story-text-3388365" aria-expanded="false">
+            VW droht neuer Betrugsprozess wegen Dieselskandals
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388365">
+         
+         <div class="story-story">
+            <p>Dem deutschen Autohersteller Volkswagen droht ein weiteres Gerichtsverfahren wegen des Dieselskandals. Die Pariser Staatsanwaltschaft habe bereits Ende Februar einen Prozess in Frankreich wegen Betrugs gegen den Konzern beantragt, erfuhr die Nachrichtenagentur AFP gestern. Die Staatsanwaltschaft bestätigte auf Anfrage, dass ihre Abteilung für öffentliche Gesundheit am 24. Februar beantragt hatte, Volkswagen vor ein Strafgericht zu bringen.</p><p>Im Raum stehe eine Geldstrafe von 375.000 Euro bzw. zehn Prozent des Umsatzes. Die Ermittlungen gegen Volkswagen in Frankreich waren im Juni 2021 eingeleitet worden. Damals erklärte Volkswagen, die 2018 in Deutschland wegen des Dieselskandals gezahlte Geldstrafe von einer Milliarde Euro umfasse auch in Frankreich vermarktete Fahrzeuge.</p><h3>Ermittlungen seit 2022 abgeschlossen</h3><p>Der Skandal bei dem Autohersteller war im September 2015 bekanntgeworden. VW räumte damals ein, bei bestimmten Dieselmotoren der Marken Volkswagen, Seat, Audi und Skoda eine Software verbaut zu haben, die den Ausstoß von Stickoxid auf dem Prüfstand senkte, nicht aber im Straßenverkehr.</p><p>Die 2021 in Frankreich eingeleiteten Ermittlungen sind bereits seit August 2022 abgeschlossen. Die Entscheidung darüber, ob nun ein Strafverfahren gegen den Konzern eröffnet wird, obliegt dem zuständigen Ermittlungsrichter. Neben VW waren in Frankreich auch Ermittlungen gegen Renault, Peugeot, Citroen und Fiat-Chrysler eingeleitet worden.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388365/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort sport">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Sport</span></h2>
+      <div class="ticker-ressort-stories">
+         
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388374"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://sport.orf.at/stories/3139331/" id="story3388374">
+            Alabas Leistung begeistert ÖFB-Teamchef Rangnick<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388373"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://sport.orf.at/stories/3139381/" id="story3388373">
+            England lässt Tuchel bei Einstand als Teamchef jubeln<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388371"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://sport.orf.at/stories/3139380/" id="story3388371">
+            KAC holt sich in ICE-Semifinale Heimvorteil zurück<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort chronik">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Chronik</span></h2>
+      <div class="ticker-ressort-stories">
+         
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388408"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://wien.orf.at/stories/3298137/" id="story3388408">
+            Wien: Zweijähriger stürzte aus zweitem Stock<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388387"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://ooe.orf.at/stories/3298105/" id="story3388387">
+            Tödlicher Unfall auf Westautobahn<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388404"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://tirol.orf.at/stories/3298116/" id="story3388404">
+            Tirol: Alkoholisierter Fahrer erfasste Fußgängerin<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388397"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://kaernten.orf.at/stories/3298111/" id="story3388397">
+            Frau bei Schneeschuhwanderung in Kärnten abgestürzt<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388398"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://salzburg.orf.at/stories/3298110/" id="story3388398">
+            Schwerer Arbeitsunfall im Kraftwerk Limberg III<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388394"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://noe.orf.at/stories/3298084/" id="story3388394">
+            Felssturz in Wachau: Erleichterung über offene Straße<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388399"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://vorarlberg.orf.at/stories/3298112/" id="story3388399">
+            Vbg.: Illegales Feuer löste Waldbrand aus<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort religion">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Religion</span></h2>
+      <div class="ticker-ressort-stories">
+         
+<article class="ticker-story"
+   data-id="3388406"
+   data-is-live="false"
+   data-oewatag="RedCont/Nachrichten/Religion/v1news/stories/ticker/3388406"
+   data-adworxcat="rel"
+   data-adworxtarget="Nachrichten"
+   data-adworxsubtarget="Religion"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3388406/" id="story3388406" role="button" aria-controls="ticker-story-text-3388406" aria-expanded="false">
+            Vatikan: Papst will morgen erstmals wieder auftreten
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3388406">
+         
+         <div class="story-story">
+            <p>Mehr als einen Monat nach seiner Einlieferung ins Krankenhaus will Papst Franziskus morgen erstmals wieder öffentlich auftreten. Der 88-Jährige beabsichtige, von einem Fenster des Agostino-Gemelli-Krankenhauses in Rom „einen Gruß und einen Segen“ zu sprechen, teilte der Vatikan heute mit.</p><p>Franziskus war am 14. Februar wegen einer Bronchitis in die Klinik eingeliefert worden, aus der sich eine beidseitige Lungenentzündung entwickelte.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3388406/">
+</div>
+
+
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort umwelt--klima">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Umwelt & Klima</span></h2>
+      <div class="ticker-ressort-stories">
+         
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388388"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://wien.orf.at/stories/3298061/" id="story3388388">
+            Earth Hour: Klimaschutz ohne Licht<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388396"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://noe.orf.at/stories/3297920/" id="story3388396">
+            Starkes Borkenkäferjahr befürchtet<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort science">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Science</span></h2>
+      <div class="ticker-ressort-stories">
+         
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388393"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://science.orf.at/stories/3229374/" id="story3388393">
+            Warum Robben nicht ertrinken<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort kultur">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Kultur</span></h2>
+      <div class="ticker-ressort-stories">
+         
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388403"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://topos.orf.at/foto-arsenal-wien100" id="story3388403">
+            Foto Arsenal Wien: Warum das Lama aus dem Auto sah<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+
+<article class="ticker-story ticker-story-quicklink"
+   data-id="3388400"
+>
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://steiermark.orf.at/stories/3297725/" id="story3388400">
+            Steirische Kunst für Osaka-Weltausstellung<img class="ticker-link-icon" src="https://orf.at/mojo/1_4_1/storyserver///news/common/images/ticker-link-icon.svg" />
+         </a>
+      </h3>
+   </div>
+</article>
+
+
+
+
+
+      </div>
+   </div>
+</div>
+
+
+
+   <div class="ticker-oon-settings">
+      <h2 class="sr-only">Einstellungen</h2>
+      <a class="ticker-ressort-special-headline oon-push-settings" href="https://orf.at/push/">Benachrichtigungen einrichten</a>
+      <a class="ticker-ressort-special-headline oon-display-settings" href="https://orf.at/stories/darstellung">Bildschirmdarstellung festlegen</a>
+   </div>
+</div>
+
+<div class="side-flag">
+   <div class="oon-flag" data-flag="news-front-desktop-ticker.json"></div>
+   <div class="oon-flag" data-flag="news-front-desktop-ticker-sekundaer.json"></div>
+</div>
+
+
+
+
+      </main>
+      <footer class="page-footer" id="page-footer">
+   <div class="back-to-front" hidden>
+      <a href="https://orf.at/">Zurück zur Startseite</a>
+   </div>
+   <ul class="footer-network">
+   <li><a href="https://orf.at/" lang="en">News</a></li>
+   <li><a href="https://sport.orf.at/" class="current">Sport</a></li>
+   <li><a href="https://wetter.orf.at/">Wetter</a></li>
+   <li><a href="https://oesterreich.orf.at/" class="networkOesterreich">&Ouml;sterreich</a></li>
+   <li><a href="https://debatte.orf.at/">Debatte</a></li>
+   <li><a href="https://sound.orf.at/">Sound</a></li>
+   <li><a href="https://topos.orf.at/">Topos</a></li>
+   <li><a href="https://on.orf.at/">ORF ON</a></li>
+   <li><a href="https://kids.orf.at/">ORF KIDS</a></li>
+   <li><a href="https://tv.orf.at/">Fernsehen</a></li>
+   <li><a href="https://radio.orf.at/">Radio</a></li>
+   <li><a href="https://orf.at/uebersicht/">Alle ORF-Angebote</a></li>
+</ul>
+
+
+
+   <ul class="footer-service">
+      <li><a href="https://der.orf.at/kontakt">Kontakt</a></li>
+      <li><a href="https://orf.at/stories/datenschutz">Datenschutzerkl&auml;rung</a></li>
+      <li><a href="#" id="show-didomi">Datenschutzeinstellungen</a></li>
+      <li><a href="https://orf.at/stories/impressum/">Offenlegung</span></a></li>
+      <li><a href="https://zukunft.orf.at/show_content2.php?s2id=183">Bekanntgabe laut ORF-G</a></li>
+      <li><a href="https://publikumsrat.orf.at/">Publikumsrat</a></li>
+      <li><img class="orf-brick" src="https://orf.at/mojo/1_4_1/storyserver//news/common/images/orf-brick.svg" alt="ORF-Logo"></li>
+   </ul>
+   <span class="footer-font-preloader" aria-hidden="true" style="font-size: 6px;">ORF.at</span>
+</footer>
+
+
+      <div class="print-warning">
+   <div>Nicht alle Bilder konnten vollständig geladen werden. Bitte schließen Sie die Druckvorschau bis alle Bilder geladen wurden und versuchen Sie es noch einmal.</div>
+</div>
+
+
+
+   </div>
+   
+<script>
+   window.settings = {
+      "sitemap": {
+         "url": "https://orf.at/mojo/1_4_1/storyserver//common/sitemap/sitemap-standard.json"
+      },
+      "tickerBanner" : {
+         "enabled": true,
+         "url": "https://orf.at/mojo/1_4_1/storyserver//news/news/html/banner.html?v=1.3",
+         "width": 300,
+         "height": 600
+      },
+      "vote": {
+         "pluginSrc": ""
+      },
+      "siteHref": "https://orf.at/",
+      "mobilityLayer": {
+         "fussballApi": "https://appfeeds.orf.at/fb2.1/api/",
+         "fussballWeb": "https://sport.orf.at/fussball/"
+      },
+      "mediaApi": "//bits.orf.at/filehandler/static-api/json/current/data.json"
+   };
+   </script>
+
+<script data-compressor="e39e9526" src="https://orf.at/mojo.compressed/1_4_1/news//news/main.js?v=2025022323-797"></script>
+
+
+
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/product-navigation/js/app.js?v=2025022323-797"></script>
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/bulawindow-2023/js/app.js?v=2025022323-797"></script>
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/einfache-sprache-2023/js/app.js?v=2025022323-797"></script>
+<script type="module" src="https://assets.orf.at/vue-storyserver/newssport-videos/index.js?v=2025022323-797&topVideoCount=5&newsOverviewCount=20"></script>
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/share/js/app.js?v=2025022323-797"></script>
+
+
+
+<script data-compressor="5d0bb7c3" src="https://orf.at/mojo.compressed/1_4_1/news//news/push-register-fix.js?v=2025022323-797" defer></script>
+
+
+
+
+   <script type="module" src="https://orf.at/oon/media/8.5/oonmedia.js"></script>
+   <script defer src="https://pipe.orf.at/globus-2022/code/main.js?v=2025022323-797"></script>
+   <script defer="defer" src="//pipe.orf.at/migsys/mig.js/injector.js?automojo&v=2025022323-797"></script>
+
+   
+
+   <div id="sitebar-banner" class="banner sitebar-banner" aria-hidden="true"></div>
+<script>
+   oon.adition.loadAll("news.orf.at").then(function(response) {
+      var isDesktop = oon.responsive.isDesktop();
+      var domain = "news.orf.at";
+      var path = "/front";
+      var platform = isDesktop ? "web" : "mob";
+      var placement = isDesktop ? "sb" : "par";
+      var aditionId = oon.adition.lookup(path, platform, placement);
+      console.log(domain, path, platform, placement, aditionId);
+      if (aditionId) {
+         var sitepage = oon.adition.adformat(domain + path);
+         var keywords = {"subcategory":"nachrichtenueberblick"};
+         adition.srq.push(function(api) {
+            oon.adition.setDidomi(api);
+            api.setProfile("test", oon.adition.isTest());
+            api.setProfile("sitepage", sitepage);
+            for (var key in keywords) {
+               api.setProfile(key, keywords[key]);
+            }
+            if (isDesktop) {
+               api.setProfile("viewport", "full");
+               api.configureRenderSlot("sitebar-banner").setContentunitId(aditionId);
+               api.renderSlot("sitebar-banner").load().completeRendering();
+            } else {
+               // move parallax-container into ticker
+               $("#ticker .ticker-ressort:eq(0)").before($("<div />").addClass("px-target"));
+               oon.parallax(".px-target");
+               api.setProfile("viewport", oon.responsive.isTablet() ? "tablet" : "phone");
+               api.configureRenderSlot("px-wrapper").setContentunitId(aditionId);
+               api.renderSlot("px-wrapper").load().completeRendering();
+            }
+         });
+      }
+   });
+</script>
+
+   <!-- OEWA -->
+<script>
+var oewa_path = "RedCont/Nachrichten/Nachrichtenueberblick/v1news";
+var oewa_unique = "front";
+var oewa_data = {
+  "cn": "at",
+  "st": "at_w_atorf",
+  "sv": "in",
+  "ps": "lin",
+  "sc": "yes"
+};
+oewa_data.cp = oewa_path + "/" + oewa_unique;
+
+if (window.oewa_consentless_init) {
+   window.oewa_consentless_init(oewa_data);
+}
+</script>
+<!-- /OEWA -->
+
+
+
+</body>
+</html>
+
