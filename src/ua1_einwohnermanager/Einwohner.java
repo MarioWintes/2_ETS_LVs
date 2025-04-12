@@ -1,5 +1,7 @@
 package ua1_einwohnermanager;
 
+import java.util.Objects;
+
 public class Einwohner implements Comparable<Einwohner> {
 
     private int id;
@@ -7,7 +9,7 @@ public class Einwohner implements Comparable<Einwohner> {
     private String bundesland;
     private int geburtsjahr;
 
-    public Einwohner(int id, String name, String bundesland, int geburtsjahr){
+    public Einwohner(int id, String name, String bundesland, int geburtsjahr) {
         this.id = id;
         this.name = name;
         this.bundesland = bundesland;
@@ -58,9 +60,21 @@ public class Einwohner implements Comparable<Einwohner> {
 
     @Override
     public int compareTo(Einwohner o) {
-        if (this.name.compareTo(o.getName()) == 0){
+        if (this.name.compareTo(o.getName()) == 0) {
             return Integer.compare(this.id, o.getId());
         }
         return this.name.compareTo(o.getName());
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (o == null || getClass() != o.getClass()) return false;
+        Einwohner einwohner = (Einwohner) o;
+        return id == einwohner.id && geburtsjahr == einwohner.geburtsjahr && Objects.equals(name, einwohner.name) && Objects.equals(bundesland, einwohner.bundesland);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, name, bundesland, geburtsjahr);
     }
 }
